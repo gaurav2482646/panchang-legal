@@ -1,6 +1,6 @@
 # Privacy Policy — Panchang: Hindu Calendar
 
-**Effective date: 17 August 2026**
+**Effective date: 11 November 2026**
 
 Panchang: Hindu Calendar ("the app") is published by Gaurav Jeet Singh
 ("we", "us"). This policy explains what data the app handles on Android and
@@ -38,18 +38,24 @@ to ~11 km before leaving the device.
 
 ## Advertising (free tier)
 
-The free tier shows ads served by Google AdMob. **This version of the app
-requests non-personalized ads only** — ads are never targeted using a profile
-of your interests. Where consent regulations apply (for example the EEA and
-UK), the app still presents Google's consent dialog before any ad is loaded.
-AdMob may use your device's advertising identifier for purposes such as
-limiting how often you see the same ad and preventing fraud.
+The free tier shows ads served by Google AdMob. Where consent regulations
+apply (for example the EEA, UK and Switzerland), the app presents Google's
+consent dialog before any ad is loaded, and your choice there is respected.
 
-- **Android:** you can reset or delete your advertising ID in
+- **Android:** the app requests **personalized ads** where you have not
+  opted out, so Google may use your device's advertising ID to show ads
+  based on your interests. If you decline in the consent dialog, or opt out
+  of ads personalization on your device, you see non-personalized ads
+  instead. You can reset or delete your advertising ID, or opt out, in
   Settings → Privacy → Ads.
-- **iOS:** the app does not request App Tracking Transparency permission and
-  does not track you across other companies' apps; you can additionally limit
-  ad personalization in Settings → Privacy & Security → Apple Advertising.
+- **iOS:** the app requests **non-personalized ads only**. It does not
+  request App Tracking Transparency permission and does not track you across
+  other companies' apps; you can additionally limit ad personalization in
+  Settings → Privacy & Security → Apple Advertising.
+
+On both platforms AdMob may use your device's advertising identifier for
+purposes such as limiting how often you see the same ad and preventing fraud.
+Google's use of data is described at https://policies.google.com/technologies/partner-sites.
 
 Premium subscribers see no ads.
 
